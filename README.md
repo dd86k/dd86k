@@ -1,2 +1,26 @@
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dd86k&theme=midnight-purple&show_icons=true&hide_border=true" /> </a> | <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dd86k&theme=midnight-purple&layout=compact" /></a> |
+# dd86k
+
+Hey, I'm dd.
+
+I'm interested in **software engineering**, **system administration**,
+**telecommunications**, and **technical documentation**.
+
+My main programming language is the [D programming language](https://dlang.org).
+I also know a good amount of C, C#, PHP, and JavaScript.
+
+Available on: [GitHub](https://github.com/dd86k/), [Gitlab](https://gitlab.com/dd86k/), and [Codeberg](https://codeberg.org/dd86k/).
+
+A more complete portfolio is [available online](https://dd86k.github.io/).
+
+## Active Projects
+
+| Project | Description |
 |---|---|
+| [alicedbg](/dd86k/alicedbg) | Debugger toolkit |
+| [ddhx](/dd86k/ddhx) | Hex viewer |
+| [ddh](/dd86k/ddh) | Hash utility |
+| [binco](/dd86k/binco) | Binary-text encoder/decoder |
+| [sha3-d](/dd86k/sha3-d) | Keccak-f[1600,24] implementation |
+| [binco](/dd86k/binco) | BLAKE2 implementation |
+| [lateterm](/dd86k/lateterm) | WordPress "DOS" theme |
+| [npp_vs2012](/dd86k/npp_vs2012) | Notepad++ "VS2012" theme |
