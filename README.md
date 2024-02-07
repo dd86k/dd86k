@@ -20,7 +20,7 @@ A more complete portfolio is [available online](https://dd86k.github.io/).
 | [ddhx](/dd86k/ddhx) | Hex viewer |
 | [ddh](/dd86k/ddh) | Hash utility |
 | [binco](/dd86k/binco) | Binary-text encoder/decoder |
-| [sha3-d](/dd86k/sha3-d) | Keccak-f[1600,24] implementation |
-| [binco](/dd86k/binco) | BLAKE2 implementation |
+| [sha3-d](/dd86k/sha3-d) | Keccak-f[1600,24] (SHA-3) implementation |
+| [blake2-d](/dd86k/blake2-d) | BLAKE2 implementation (s and b variants) |
 | [lateterm](/dd86k/lateterm) | WordPress "DOS" theme |
 | [npp_vs2012](/dd86k/npp_vs2012) | Notepad++ "VS2012" theme |
