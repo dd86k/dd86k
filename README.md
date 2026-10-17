@@ -25,6 +25,8 @@ A more complete portfolio is available online on [GitHub](https://dd86k.github.i
   [GitHub](https://github.com/dd86k/aliceserver)
   [GitLab](https://gitlab.com/dd86k/aliceserver)
   [Codeberg](https://codeberg.org/dd86k/aliceserver)
+- **motoori**, Windows/libc error database:
+  [GitHub](https://github.com/dd86k/motoori)
 
 ### Binary tools
 
